@@ -1,4 +1,4 @@
-# Tracker Website
+# Personal-Health-Tracker
 
 A full-stack web application for tracking daily habits, lifestyle scores, and personal challenges. Built with React (Vite) frontend and Node.js/Express backend.
 
