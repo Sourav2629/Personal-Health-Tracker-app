@@ -109,14 +109,4 @@ VITE_API_URL=http://localhost:5000
   - `npm start`: Start the server
   - `npm run dev`: Start with nodemon (development)
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
