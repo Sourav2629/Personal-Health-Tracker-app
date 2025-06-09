@@ -86,15 +86,16 @@ Create `.env` files in both frontend and backend directories:
 
 ### Backend `.env`:
 ```
+MONGODB_URI=mongodb://localhost:27017/tracker
+JWT_SECRET=your-very-secure-jwt-secret-key
 PORT=5000
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
+NODE_ENV=development
 # Add other backend environment variables
 ```
 
 ### Frontend `.env`:
 ```
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=http://localhost:5000/api
 # Add other frontend environment variables
 ```
 
